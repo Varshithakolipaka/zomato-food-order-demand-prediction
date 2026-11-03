@@ -31,7 +31,7 @@ zomato-food-order-demand-prediction/
 ├── README.md
 ├── Zomato food prediction.ipynb
 ├── zomato.zip
-└── APA DASHBOARD.pbix        # Add this file if it is part of your local project
+└──zomato food prediction dashboard.pbix        
 ```
 
 The notebook and dataset ZIP are the files currently included in the
