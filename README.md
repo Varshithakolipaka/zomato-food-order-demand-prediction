@@ -28,15 +28,13 @@ restaurant capacity, and reduce delivery delays.
 ``` text
 zomato-food-order-demand-prediction/
 │
-├── README.md
+├
 ├── Zomato food prediction.ipynb
 ├── zomato.zip
 └──zomato food prediction dashboard.pbix        
 ```
 
-The notebook and dataset ZIP are the files currently included in the
-local project folder. Add the Power BI `.pbix` dashboard file to the
-repository if you want it available alongside the notebook.
+
 
 ## Dataset
 
@@ -138,24 +136,15 @@ model and Power BI visualizations, including:
 -   Predicted Demand by City
 
 For numerical model scores and exact result values, refer to the
-executed notebook outputs. Do not interpret example or unexecuted
-outputs as measured model performance.
+executed notebook outputs. 
 
 ## Future Enhancements
 
 -   Evaluate additional regression models and compare their performance.
 -   Improve forecasting with more historical data and location-level
     features.
--   Add a clearly documented rider-requirement calculation.
 -   Build an automated demand forecasting pipeline.
 -   Refresh dashboard insights as new order data becomes available.
 
-## Contributors
 
-Add the names and roll numbers of all project team members here.
 
-## License
-
-This repository is intended for academic and educational purposes. Add a
-license only if you have permission to distribute all included datasets
-and project materials.
